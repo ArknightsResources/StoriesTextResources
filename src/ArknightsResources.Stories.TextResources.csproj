@@ -14,7 +14,7 @@
     <Description>Provides text resources for Arknights stories</Description>
     <IsTrimmable>true</IsTrimmable>
     <Authors>Baka632</Authors>
-    <Version>0.1.1.0-alpha</Version>
+    <Version>0.1.2.0-alpha</Version>
     <IncludeSymbols>True</IncludeSymbols>
     <SymbolPackageFormat>snupkg</SymbolPackageFormat>
     <DebugType>portable</DebugType>
